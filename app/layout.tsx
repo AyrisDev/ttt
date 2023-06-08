@@ -4,8 +4,8 @@ import cn from "classnames";
 import "@/styles/globals.css";
 import "@/styles/scrollbar.css";
 
-import Sidebar from "@/components/Navigation/sidebar";
-import Header from "@/Components/Navigation/header";
+import Sidebar from "@/components/navigation/sidebar";
+import Header from "@/Components/navigation/header";
 
 import { GrazProvider } from "@ayris-dev/cosmoshooks";
 import { vinceTestnet } from "@/lib//chains/vinceChain";
